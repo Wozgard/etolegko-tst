@@ -6,3 +6,4 @@
 - API до CLI: `measure(url)` → `{ averageRequestSeconds, totalBytes, speedKBps }`.
 - TDD: реализация `measure` пока только `throw 'not implemented'`.
 - Тесты в `tests/` — Done when. Менять их можно только по прямому указанию человека. Приёмка: `npm test`, все зелёные.
+- Репозиторий приватный: https://github.com/Wozgard/etolegko-tst, ветка `main`.
